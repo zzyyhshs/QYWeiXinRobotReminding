@@ -1,5 +1,5 @@
 # 1. 项目名
-reminding
+QYWeiXinRobotReminding
 
 # 2. 项目说明
 - 对企业微信中的消息提醒机器人的api进行了封装，提供了更简易的调用方式
